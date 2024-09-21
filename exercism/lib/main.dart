@@ -1,5 +1,5 @@
-import 'problems.dart/p10.dart';
+import 'problems.dart/p20.dart';
 
 void main() {
-  bob('');
+  resistorColor();
 }
