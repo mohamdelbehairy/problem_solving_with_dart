@@ -1,5 +1,5 @@
-import 'problems.dart/p20.dart';
+import 'problems.dart/p25.dart';
 
 void main() {
-  resistorColor();
+  secretHandshake();
 }
