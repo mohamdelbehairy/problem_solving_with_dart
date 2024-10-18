@@ -1,5 +1,5 @@
-import 'problems.dart/p30.dart';
+import 'problems.dart/p35.dart';
 
 void main() {
-  darts(1, 0);
+  primeFactors();
 }
